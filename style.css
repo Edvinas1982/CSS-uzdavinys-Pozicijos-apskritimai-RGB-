@@ -5,3 +5,14 @@
     position: relative;
     left: 25%;
 }
+.blue {
+    position: absolute;
+    left: 265px;
+    top: 140px;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(6, 82, 247);
+    border-radius: 50%;
+    display: inline-block;
+    border: solid 5px black;
+}
