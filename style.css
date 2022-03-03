@@ -7,11 +7,33 @@
 }
 .blue {
     position: absolute;
-    left: 265px;
-    top: 140px;
-    height: 400px;
-    width: 400px;
+    left: 300px;
+    top: 190px;
+    height: 350px;
+    width: 350px;
     background-color: rgb(6, 82, 247);
+    border-radius: 50%;
+    display: inline-block;
+    border: solid 5px black;
+}
+.red {
+    position: absolute;
+    left: 165px;
+    top: 30px;
+    height: 350px;
+    width: 350px;
+    background-color: rgb(247, 6, 6);
+    border-radius: 50%;
+    display: inline-block;
+    border: solid 5px black;
+}
+.green {
+    position: absolute;
+    left: 30px;
+    top: 190px;
+    height: 350px;
+    width: 350px;
+    background-color: rgb(3, 248, 3);
     border-radius: 50%;
     display: inline-block;
     border: solid 5px black;
