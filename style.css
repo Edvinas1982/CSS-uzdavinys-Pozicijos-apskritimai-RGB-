@@ -20,6 +20,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
+    animation: goingUp  2s ease 2s 1 forwards;
 }
 .blue {
     background-color: rgba(27, 27, 233, 0.5);
@@ -36,6 +37,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
+    
 }
 .green {
     background-color: rgba(20, 224, 48, 0.5);
@@ -52,4 +54,5 @@
     align-items: center;
     display: flex;
     justify-content: center;
+    
 }
