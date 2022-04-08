@@ -1,5 +1,6 @@
 .container {
     width: 50%;
+    max-width: 1200px;
     height: 50vw;
     background-color: rgb(204, 201, 201);
     position: relative;
@@ -37,7 +38,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    
+    animation: goingRight  2s ease 2s 1 forwards;
 }
 .green {
     background-color: rgba(20, 224, 48, 0.5);
@@ -54,5 +55,5 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    
+    animation: goingLeft  2s ease 2s 1 forwards;
 }
